@@ -64,6 +64,10 @@ section {
     padding: 50px;
 }
 
+h3 {
+    padding-bottom: 5px;
+}
+
 .list {
     list-style: none;
     margin-bottom: 20px;
